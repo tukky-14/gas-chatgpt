@@ -11,3 +11,9 @@
    ```
    =GPT("[プロンプト]")
    ```
+
+<br/>
+
+**参考資料**
+
+- [【やってみた】非エンジニアが OpenAI API×GAS を活用しスプレッドシートで文章チェックを実施してみた](https://dev.classmethod.jp/articles/non-tect-openai-gas1031/)
